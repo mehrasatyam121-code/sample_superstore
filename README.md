@@ -14,5 +14,4 @@ Analyzed Superstore sales data using SQL, Python, and Power BI.
 - Regional sales analysis
 - Monthly sales trends
 
-## Dashboard
-(Add dashboard screenshots here)
+
